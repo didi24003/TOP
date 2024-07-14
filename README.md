@@ -1,2 +1,2 @@
 # TOP
-Técnicas de optimización
+Técnicas de optimizacion
